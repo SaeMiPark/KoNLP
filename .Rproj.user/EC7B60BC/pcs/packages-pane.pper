@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": false,
+        "libraryPath": "C:/rtools42",
+        "installDependencies": true
+    }
+}
